@@ -1,13 +1,16 @@
 # Skills
 
 ## JS
-* Знать и использовать ES6/7
+* Use ES6/7
 * Работать и манипулировать структурами данных
 
 ## REST API
-* Знать методы: GET, PUSH, DELETE, PATCH, PUT, OPTIONS
+* Methods: GET, PUSH, DELETE, PATCH, PUT, OPTIONS
 * Уметь отправить и получить ответ на запрос
 * Написать Node JS сервер для обработки запросов
+
+## Npm / Yarn
+* 
 
 ## React, Redux
 
@@ -16,6 +19,11 @@
 ## CSS / SCSS
 
 ## Git
+* Commit, push, pull
+* Create new branch
+* Stash, unstash
+* Resolve conflicts
+* Pull (merge) request
 
 ## Webpack
 
