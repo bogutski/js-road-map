@@ -11,6 +11,6 @@
 9. Closures
 10. Promises
 11. Classes, inheritance
-12. Browser: Document, Events, Interfaces
-12. 
+12. HTML, CSS 
+13. Browser: Document, Events, Interfaces
 

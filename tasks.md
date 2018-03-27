@@ -79,4 +79,4 @@
 * Bingo Card https://www.codewars.com/kata/566d5e2e57d8fae53c00000c
 * Integer to English https://www.codewars.com/kata/53c94a82689f84c2dd00007d
 * Check three and two https://www.codewars.com/kata/check-three-and-two/train/javascript 
-*
+* The Supermarket Queue https://www.codewars.com/kata/57b06f90e298a7b53d000a86
