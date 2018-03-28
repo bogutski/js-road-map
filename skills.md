@@ -13,6 +13,12 @@
 * 
 
 ## React, Redux
+* Create own architecture
+* Work with redux: async API calls
+* Redux Form
+* Create custom components 
+* Testing with Jest
+
 
 ## HTML 5
 
