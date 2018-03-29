@@ -33,7 +33,7 @@ CSS frameworks: Bootstrap, Foundation, Material, Semantic UI
 * Object methods
 * let, var, const
 * Scopes: [local, global, function, lexical](https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/) 
-* Event loop
+* Event loop [1](https://www.youtube.com/watch?v=8cV4ZvHXQL4), [2](https://www.youtube.com/watch?v=xPo0klJCDVs), [Jake Archibald, pro](https://www.youtube.com/watch?v=j4_9BZezSUA)
 * Event delegation
 * Event handling
 * Callback
