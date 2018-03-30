@@ -1,7 +1,6 @@
 # Tasks 
 
 ## Strings
-
 * Random case https://www.codewars.com/kata/random-case/train/javascript
 * Remove First and Last Character https://www.codewars.com/kata/remove-first-and-last-character/solutions/javascript
 * Alphabet symmetry https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0
@@ -71,6 +70,9 @@
 * Javascript Mathematician https://www.codewars.com/kata/55c211cce1ef691d9b000061
 * Understanding closures - the basics https://www.codewars.com/kata/56b71b1dbd06e6d88100092a
 
+## Prototypes
+* Putting the flatMap into the JS https://www.codewars.com/kata/putting-the-flatmap-into-the-js/train/javascript
+
 ## Algorithms
 * Vasya - Clerk https://www.codewars.com/kata/vasya-clerk/javascript
 * Valid Parentheses https://www.codewars.com/kata/52774a314c2333f0a7000688
@@ -80,3 +82,5 @@
 * Integer to English https://www.codewars.com/kata/53c94a82689f84c2dd00007d
 * Check three and two https://www.codewars.com/kata/check-three-and-two/train/javascript 
 * The Supermarket Queue https://www.codewars.com/kata/57b06f90e298a7b53d000a86
+
+* Simple parenthesis removal https://www.codewars.com/kata/simple-parenthesis-removal
