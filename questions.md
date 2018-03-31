@@ -9,8 +9,8 @@
 *
 
 ## CSS
-* Selectors
-* Box model
+* Selectors [RU video](https://www.youtube.com/watch?v=WH7BNFo3A2s)
+* Box model [RU video](https://www.youtube.com/watch?v=-JFZ8mqmPJw)
 * Cascading
 * Position: static, relative, fixed, absolute, sticky
 * Display: block, inline, inline-block, flex
@@ -21,8 +21,8 @@
 * Selectors with + and >
 * Flex
 * Responsive layout: media queries
-CSS frameworks: Bootstrap, Foundation, Material, Semantic UI
-*
+CSS frameworks: Bootstrap ([RU video](https://www.youtube.com/watch?v=2JMMnNOhDoc), [Grid system](https://www.youtube.com/watch?v=VaW4na2qkwQ)), Foundation, Material, Semantic UI
+* CSS Grid [video](https://www.youtube.com/watch?v=HgwCeNVPlo0) 
 *
 
 ## JS
@@ -33,18 +33,18 @@ CSS frameworks: Bootstrap, Foundation, Material, Semantic UI
 * Object methods
 * let, var, const
 * Scopes: [local, global, function, lexical](https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/) 
-* Event loop [1](https://www.youtube.com/watch?v=8cV4ZvHXQL4), [2](https://www.youtube.com/watch?v=xPo0klJCDVs), [Jake Archibald, pro](https://www.youtube.com/watch?v=j4_9BZezSUA)
-* Event delegation
+* Event loop [1 RU video](https://www.youtube.com/watch?v=8cV4ZvHXQL4), [2](https://www.youtube.com/watch?v=xPo0klJCDVs), [Jake Archibald, pro](https://www.youtube.com/watch?v=j4_9BZezSUA)
+* Event delegation 
 * Event handling
 * Callback
-* High ordered function
-* Immediately Invoked Function expression - IIFE
+* High ordered function [video](https://www.youtube.com/watch?v=BMUiFMZr7vk)
+* Immediately Invoked Function expression - IIFE [video](https://www.youtube.com/watch?v=3cbiZV4H22c)
 * Self-Executing Anonymous Function
 * Closure
 * Strict mode
 * Data types
 * `this`
-* `new`
+* `new` [video](https://www.youtube.com/watch?v=Y3zzCY62NYc&t=101s)
 * NaN, null, empty string, undefined
 * bind, call, apply
 * Promise
