@@ -1,5 +1,8 @@
 # Questions
 
+##
+* COSR [RU video](https://www.youtube.com/watch?v=SgFJJBa0AH8)
+
 ## HTML
 * New features of HTML 5
 * Local and session storage: methods, differences
