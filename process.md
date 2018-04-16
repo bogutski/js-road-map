@@ -10,7 +10,7 @@
 * Objects
 * Closures
 * Promises
-* Classes, inheritance, __proto__, prototype
+* Classes, inheritance, `__proto__`, prototype
 * HTML, CSS 
 * Browser: Document, Events (event loop), Interfaces
 * Todo list on Vanila JS
