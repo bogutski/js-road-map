@@ -5,7 +5,7 @@
 * Работать и манипулировать структурами данных
 
 ## REST API
-* Methods: GET, PUSH, DELETE, PATCH, PUT, OPTIONS
+* Methods: GET, POST, DELETE, PATCH, PUT, OPTIONS
 * Уметь отправить и получить ответ на запрос
 * Написать Node JS сервер для обработки запросов
 
@@ -21,6 +21,8 @@
 
 
 ## HTML 5
+* Разница между: localStorage, sessionStorage, IndexDB
+
 
 ## CSS / SCSS
 
