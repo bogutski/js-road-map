@@ -1,5 +1,11 @@
 # Tasks 
 
+## Initial level 
+* https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript
+* https://www.codewars.com/kata/will-you-make-it/train/javascript
+* https://www.codewars.com/kata/capitalization-and-mutability/train/javascript
+* https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript
+
 ## Strings
 * Random case https://www.codewars.com/kata/random-case/train/javascript
 * Remove First and Last Character https://www.codewars.com/kata/remove-first-and-last-character/solutions/javascript
