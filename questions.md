@@ -58,5 +58,5 @@ CSS frameworks: Bootstrap ([RU video](https://www.youtube.com/watch?v=2JMMnNOhDo
 * Ternary operator
 * Destructuring assignment
 * Error handling
-*
+* RegExp https://regexone.com/
 *
