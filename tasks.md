@@ -25,7 +25,7 @@
 * Shortest Word https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
 * Double Char https://www.codewars.com/kata/56b1f01c247c01db92000076
 * Convert boolean values to strings 'Yes' or 'No'. https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no
-*
+* Simple Simple Simple String Expansion https://www.codewars.com/kata/5ae326342f8cbc72220000d2
 *
 
 ## Arrays
@@ -53,7 +53,7 @@
 * Clocky Mc Clock-Face https://www.codewars.com/kata/59752e1f064d1261cb0000ec
 * Find the divisors! https://www.codewars.com/kata/544aed4c4a30184e960010f4
 * Sum of Odd Cubed Numbers https://www.codewars.com/kata/580dda86c40fa6c45f00028a
-* 
+* Find The Parity Outlier https://www.codewars.com/kata/find-the-parity-outlier/javascript
 * 
 
 ## Cycles 
@@ -70,7 +70,8 @@
 * String cleaning https://www.codewars.com/kata/57e1e61ba396b3727c000251
 * FIXME: Replace all dots https://www.codewars.com/kata/596c6eb85b0f515834000049
 * Dubstep https://www.codewars.com/kata/551dc350bf4e526099000ae5
-*
+* Converting Measures https://www.codewars.com/kata/5acfab8d23c81836c90000eb
+* Convert string to camel case https://www.codewars.com/kata/517abf86da9663f1d2000003
 
 ## Closures 
 * Javascript Mathematician https://www.codewars.com/kata/55c211cce1ef691d9b000061
