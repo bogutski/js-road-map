@@ -72,6 +72,8 @@
 * Dubstep https://www.codewars.com/kata/551dc350bf4e526099000ae5
 * Converting Measures https://www.codewars.com/kata/5acfab8d23c81836c90000eb
 * Convert string to camel case https://www.codewars.com/kata/517abf86da9663f1d2000003
+* Regex validate PIN code https://www.codewars.com/kata/regex-validate-pin-code/javascript
+* Simple validation of a username with regex https://www.codewars.com/kata/simple-validation-of-a-username-with-regex
 
 ## Closures 
 * Javascript Mathematician https://www.codewars.com/kata/55c211cce1ef691d9b000061
