@@ -39,7 +39,8 @@
 * Write shortest function to calculate Average number of Array https://www.codewars.com/kata/56c22cdbe0c0f7cae2001789
 * Sort the odd https://www.codewars.com/kata/578aa45ee9fd15ff4600090d
 * Array Array Array https://www.codewars.com/kata/array-array-array/train/javascript
-*
+* Create Four Letter Birding Codes from Bird Names https://www.codewars.com/kata/create-four-letter-birding-codes-from-bird-names/javascript
+* 
 
 ## Math
 * Will you make it? https://www.codewars.com/kata/5861d28f124b35723e00005e
