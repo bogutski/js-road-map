@@ -5,6 +5,7 @@
 * https://www.codewars.com/kata/will-you-make-it/train/javascript
 * https://www.codewars.com/kata/capitalization-and-mutability/train/javascript
 * https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript
+* If you can't sleep, just count sheeps!! https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheeps/javascript
 
 ## Strings
 * Random case https://www.codewars.com/kata/random-case/train/javascript
