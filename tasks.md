@@ -42,6 +42,7 @@
 * Array Array Array https://www.codewars.com/kata/array-array-array/train/javascript
 * Create Four Letter Birding Codes from Bird Names https://www.codewars.com/kata/create-four-letter-birding-codes-from-bird-names/javascript
 * String Reordering https://www.codewars.com/kata/string-reordering/javascript
+* Arrays Similar https://www.codewars.com/kata/arrays-similar/javascript
 
 ## Math
 * Will you make it? https://www.codewars.com/kata/5861d28f124b35723e00005e
@@ -76,6 +77,7 @@
 * Convert string to camel case https://www.codewars.com/kata/517abf86da9663f1d2000003
 * Regex validate PIN code https://www.codewars.com/kata/regex-validate-pin-code/javascript
 * Simple validation of a username with regex https://www.codewars.com/kata/simple-validation-of-a-username-with-regex
+* Reverse Vowels In A String https://www.codewars.com/kata/reverse-vowels-in-a-string/javascript
 
 ## Closures 
 * Javascript Mathematician https://www.codewars.com/kata/55c211cce1ef691d9b000061
