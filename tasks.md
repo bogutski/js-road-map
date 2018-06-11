@@ -27,7 +27,7 @@
 * Double Char https://www.codewars.com/kata/56b1f01c247c01db92000076
 * Convert boolean values to strings 'Yes' or 'No'. https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no
 * Simple Simple Simple String Expansion https://www.codewars.com/kata/5ae326342f8cbc72220000d2
-*
+* Fix string case http://www.codewars.com/kata/fix-string-case/javascript
 
 ## Arrays
 * Initialize my name https://www.codewars.com/kata/5768a693a3205e1cc100071f
@@ -79,6 +79,7 @@
 * Regex validate PIN code https://www.codewars.com/kata/regex-validate-pin-code/javascript
 * Simple validation of a username with regex https://www.codewars.com/kata/simple-validation-of-a-username-with-regex
 * Reverse Vowels In A String https://www.codewars.com/kata/reverse-vowels-in-a-string/javascript
+* Correct the mistakes of the character recognition software https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software/javascript
 
 ## Closures 
 * Javascript Mathematician https://www.codewars.com/kata/55c211cce1ef691d9b000061
