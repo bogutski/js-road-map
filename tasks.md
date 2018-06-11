@@ -43,6 +43,7 @@
 * Create Four Letter Birding Codes from Bird Names https://www.codewars.com/kata/create-four-letter-birding-codes-from-bird-names/javascript
 * String Reordering https://www.codewars.com/kata/string-reordering/javascript
 * Arrays Similar https://www.codewars.com/kata/arrays-similar/javascript
+* A Gift Well Spent https://www.codewars.com/kata/a-gift-well-spent/javascript (Solution https://youtu.be/nUnjuTRh2AQ)
 
 ## Math
 * Will you make it? https://www.codewars.com/kata/5861d28f124b35723e00005e
