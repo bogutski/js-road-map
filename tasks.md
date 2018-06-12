@@ -6,6 +6,7 @@
 * https://www.codewars.com/kata/capitalization-and-mutability/train/javascript
 * https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript
 * If you can't sleep, just count sheeps!! https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheeps/javascript
+* Convert a string to an array https://www.codewars.com/kata/convert-a-string-to-an-array/javascript
 
 ## Strings
 * Random case https://www.codewars.com/kata/random-case/train/javascript
@@ -28,6 +29,7 @@
 * Convert boolean values to strings 'Yes' or 'No'. https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no
 * Simple Simple Simple String Expansion https://www.codewars.com/kata/5ae326342f8cbc72220000d2
 * Fix string case http://www.codewars.com/kata/fix-string-case/javascript
+* Bit Counting https://www.codewars.com/kata/bit-counting/javascript
 
 ## Arrays
 * Initialize my name https://www.codewars.com/kata/5768a693a3205e1cc100071f
@@ -58,7 +60,7 @@
 * Find the divisors! https://www.codewars.com/kata/544aed4c4a30184e960010f4
 * Sum of Odd Cubed Numbers https://www.codewars.com/kata/580dda86c40fa6c45f00028a
 * Find The Parity Outlier https://www.codewars.com/kata/find-the-parity-outlier/javascript
-* 
+* Exponential Comparison (Use Math.log()) https://www.codewars.com/kata/exponential-comparison/javascript
 
 ## Cycles 
 * Lario and Muigi Pipe Problem https://www.codewars.com/kata/56b29582461215098d00000f
