@@ -46,6 +46,7 @@
 * String Reordering https://www.codewars.com/kata/string-reordering/javascript
 * Arrays Similar https://www.codewars.com/kata/arrays-similar/javascript
 * A Gift Well Spent https://www.codewars.com/kata/a-gift-well-spent/javascript (Solution https://youtu.be/nUnjuTRh2AQ)
+* Maximum Triplet Sum (Array Series #7) https://www.codewars.com/kata/5aa1bcda373c2eb596000112
 
 ## Math
 * Will you make it? https://www.codewars.com/kata/5861d28f124b35723e00005e
@@ -74,6 +75,7 @@
 
 ## RegExp
 * String cleaning https://www.codewars.com/kata/57e1e61ba396b3727c000251
+* Disemvowel Trolls https://www.codewars.com/kata/52fba66badcd10859f00097e
 * FIXME: Replace all dots https://www.codewars.com/kata/596c6eb85b0f515834000049
 * Dubstep https://www.codewars.com/kata/551dc350bf4e526099000ae5
 * Converting Measures https://www.codewars.com/kata/5acfab8d23c81836c90000eb
@@ -82,6 +84,7 @@
 * Simple validation of a username with regex https://www.codewars.com/kata/simple-validation-of-a-username-with-regex
 * Reverse Vowels In A String https://www.codewars.com/kata/reverse-vowels-in-a-string/javascript
 * Correct the mistakes of the character recognition software https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software/javascript
+
 
 ## Closures 
 * Javascript Mathematician https://www.codewars.com/kata/55c211cce1ef691d9b000061
