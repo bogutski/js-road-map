@@ -47,6 +47,7 @@
 * Arrays Similar https://www.codewars.com/kata/arrays-similar/javascript
 * A Gift Well Spent https://www.codewars.com/kata/a-gift-well-spent/javascript (Solution https://youtu.be/nUnjuTRh2AQ)
 * Maximum Triplet Sum (Array Series #7) https://www.codewars.com/kata/5aa1bcda373c2eb596000112
+* Where my anagrams at? https://www.codewars.com/kata/523a86aa4230ebb5420001e1
 
 ## Math
 * Will you make it? https://www.codewars.com/kata/5861d28f124b35723e00005e
@@ -62,6 +63,7 @@
 * Sum of Odd Cubed Numbers https://www.codewars.com/kata/580dda86c40fa6c45f00028a
 * Find The Parity Outlier https://www.codewars.com/kata/find-the-parity-outlier/javascript
 * Exponential Comparison (Use Math.log()) https://www.codewars.com/kata/exponential-comparison/javascript
+* Sum of odd numbers https://www.codewars.com/kata/55fd2d567d94ac3bc9000064
 
 ## Cycles 
 * Lario and Muigi Pipe Problem https://www.codewars.com/kata/56b29582461215098d00000f
