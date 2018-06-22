@@ -1,6 +1,7 @@
 # Tasks 
 
 ## Initial level 
+* Function 1 - hello world https://www.codewars.com/kata/function-1-hello-world/javascript
 * https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript
 * https://www.codewars.com/kata/will-you-make-it/train/javascript
 * https://www.codewars.com/kata/capitalization-and-mutability/train/javascript
