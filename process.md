@@ -2,7 +2,7 @@
 
 * Variables https://youtu.be/GmFfdloZGX8
 * Data types: String, Number, Boolean https://youtu.be/zH1DqAkbVTs
-* If, else
+* If, else if, else https://youtu.be/cPDfeMMF-_A
 * Functions
 * Loops
 * String methods
