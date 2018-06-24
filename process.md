@@ -1,6 +1,6 @@
 # Process
 
-* Variables
+* Variables https://youtu.be/GmFfdloZGX8
 * Data types: String, Number, Boolean
 * If, else
 * Functions
