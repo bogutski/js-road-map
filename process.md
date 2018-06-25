@@ -3,8 +3,8 @@
 * Variables https://youtu.be/GmFfdloZGX8
 * Data types: String, Number, Boolean https://youtu.be/zH1DqAkbVTs
 * If, else if, else https://youtu.be/cPDfeMMF-_A, https://youtu.be/YgSnePdPYEo
+* Loops https://youtu.be/k0eLQZTo-V4
 * Functions
-* Loops
 * String methods
 * Array methods
 * Objects
