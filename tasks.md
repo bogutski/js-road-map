@@ -32,6 +32,7 @@
 * Simple Simple Simple String Expansion https://www.codewars.com/kata/5ae326342f8cbc72220000d2
 * Fix string case http://www.codewars.com/kata/fix-string-case/javascript
 * Bit Counting https://www.codewars.com/kata/bit-counting/javascript
+* Fake Binary https://www.codewars.com/kata/fake-binary/javascript
 
 ## Arrays
 * Initialize my name https://www.codewars.com/kata/5768a693a3205e1cc100071f
