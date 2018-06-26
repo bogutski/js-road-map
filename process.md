@@ -4,7 +4,7 @@
 * Data types: String, Number, Boolean https://youtu.be/zH1DqAkbVTs
 * If, else if, else https://youtu.be/cPDfeMMF-_A, https://youtu.be/YgSnePdPYEo
 * Loops https://youtu.be/k0eLQZTo-V4
-* Functions
+* Functions https://youtu.be/5uARJjaXwhs
 * String methods
 * Array methods
 * Objects
