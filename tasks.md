@@ -52,6 +52,7 @@
 * Maximum Triplet Sum (Array Series #7) https://www.codewars.com/kata/5aa1bcda373c2eb596000112
 * Where my anagrams at? https://www.codewars.com/kata/523a86aa4230ebb5420001e1
 * Abbreviate a Two Word Name https://www.codewars.com/kata/abbreviate-a-two-word-name/javascript
+* A Needle in the Haystack http://www.codewars.com/kata/a-needle-in-the-haystack/javascript
 
 ## Math
 * Will you make it? https://www.codewars.com/kata/5861d28f124b35723e00005e
