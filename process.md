@@ -5,6 +5,7 @@
 * If, else if, else https://youtu.be/cPDfeMMF-_A, https://youtu.be/YgSnePdPYEo
 * Loops https://youtu.be/k0eLQZTo-V4
 * Functions https://youtu.be/5uARJjaXwhs
+* Строки и цикл по строке https://youtu.be/f4iiVsHnOfg
 * String methods
 * Array methods
 * Objects
