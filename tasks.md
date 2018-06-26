@@ -8,6 +8,7 @@
 * https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript
 * If you can't sleep, just count sheeps!! https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheeps/javascript
 * Convert a string to an array https://www.codewars.com/kata/convert-a-string-to-an-array/javascript
+* Determine offspring sex based on genes XX and XY chromosomes https://www.codewars.com/kata/determine-offspring-sex-based-on-genes-xx-and-xy-chromosomes/javascript
 
 ## Strings
 * Random case https://www.codewars.com/kata/random-case/train/javascript
