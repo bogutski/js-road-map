@@ -10,6 +10,7 @@
 * Convert a string to an array https://www.codewars.com/kata/convert-a-string-to-an-array/javascript
 * Determine offspring sex based on genes XX and XY chromosomes https://www.codewars.com/kata/determine-offspring-sex-based-on-genes-xx-and-xy-chromosomes/javascript
 
+
 ## Strings
 * Random case https://www.codewars.com/kata/random-case/train/javascript
 * Remove First and Last Character https://www.codewars.com/kata/remove-first-and-last-character/solutions/javascript
@@ -33,6 +34,7 @@
 * Fix string case http://www.codewars.com/kata/fix-string-case/javascript
 * Bit Counting https://www.codewars.com/kata/bit-counting/javascript
 * Fake Binary https://www.codewars.com/kata/fake-binary/javascript
+* RGB To Hex Conversion http://www.codewars.com/kata/rgb-to-hex-conversion/javascript
 
 ## Arrays
 * Initialize my name https://www.codewars.com/kata/5768a693a3205e1cc100071f
@@ -54,6 +56,7 @@
 * Abbreviate a Two Word Name https://www.codewars.com/kata/abbreviate-a-two-word-name/javascript
 * A Needle in the Haystack http://www.codewars.com/kata/a-needle-in-the-haystack/javascript
 
+
 ## Math
 * Will you make it? https://www.codewars.com/kata/5861d28f124b35723e00005e
 * Difference Of Squares https://www.codewars.com/kata/558f9f51e85b46e9fa000025
@@ -70,6 +73,7 @@
 * Exponential Comparison (Use Math.log()) https://www.codewars.com/kata/exponential-comparison/javascript
 * Sum of odd numbers https://www.codewars.com/kata/55fd2d567d94ac3bc9000064
 
+
 ## Cycles 
 * Lario and Muigi Pipe Problem https://www.codewars.com/kata/56b29582461215098d00000f
 * Sum of Multiples https://www.codewars.com/kata/57241e0f440cd279b5000829
@@ -79,6 +83,7 @@
 * Count the Monkeys! https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
 *
 *
+
 
 ## RegExp
 * String cleaning https://www.codewars.com/kata/57e1e61ba396b3727c000251
@@ -91,14 +96,22 @@
 * Simple validation of a username with regex https://www.codewars.com/kata/simple-validation-of-a-username-with-regex
 * Reverse Vowels In A String https://www.codewars.com/kata/reverse-vowels-in-a-string/javascript
 * Correct the mistakes of the character recognition software https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software/javascript
+* Bumps in the Road (use match) http://www.codewars.com/kata/bumps-in-the-road/javascript
+
 
 
 ## Closures 
 * Javascript Mathematician https://www.codewars.com/kata/55c211cce1ef691d9b000061
 * Understanding closures - the basics https://www.codewars.com/kata/56b71b1dbd06e6d88100092a
 
+
 ## Prototypes
 * Putting the flatMap into the JS https://www.codewars.com/kata/putting-the-flatmap-into-the-js/train/javascript
+
+
+## Class
+* http://www.codewars.com/kata/projectile-motion/train/javascript
+
 
 ## Algorithms
 * Vasya - Clerk https://www.codewars.com/kata/vasya-clerk/javascript
@@ -109,5 +122,4 @@
 * Integer to English https://www.codewars.com/kata/53c94a82689f84c2dd00007d
 * Check three and two https://www.codewars.com/kata/check-three-and-two/train/javascript 
 * The Supermarket Queue https://www.codewars.com/kata/57b06f90e298a7b53d000a86
-
 * Simple parenthesis removal https://www.codewars.com/kata/simple-parenthesis-removal
