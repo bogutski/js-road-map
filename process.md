@@ -9,7 +9,7 @@
 * Template string https://youtu.be/oOzt-hDt_DY
 * Ternary operator https://youtu.be/n_XT5B88toE
 * Primitives and Reference https://youtu.be/Xk_JGTLZyAs
-* String methods
+* String methods https://youtu.be/nQ5Ms1WqNa4
 * Array methods
 * Objects
 * Closures
