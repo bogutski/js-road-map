@@ -81,7 +81,7 @@
 * Number of People in the Bus https://www.codewars.com/kata/5648b12ce68d9daa6b000099
 * Two Sum https://www.codewars.com/kata/52c31f8e6605bcc646000082
 * Count the Monkeys! https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
-*
+* Sum of positive https://www.codewars.com/kata/sum-of-positive/train/javascript
 *
 
 
