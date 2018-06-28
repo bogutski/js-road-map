@@ -35,6 +35,7 @@
 * Bit Counting https://www.codewars.com/kata/bit-counting/javascript
 * Fake Binary https://www.codewars.com/kata/fake-binary/javascript
 * RGB To Hex Conversion http://www.codewars.com/kata/rgb-to-hex-conversion/javascript
+* Capitalization and Mutability https://www.codewars.com/kata/595970246c9b8fa0a8000086
 
 ## Arrays
 * Initialize my name https://www.codewars.com/kata/5768a693a3205e1cc100071f
