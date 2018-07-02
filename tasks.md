@@ -37,6 +37,7 @@
 * RGB To Hex Conversion http://www.codewars.com/kata/rgb-to-hex-conversion/javascript
 * Capitalization and Mutability https://www.codewars.com/kata/595970246c9b8fa0a8000086
 * Vowel Count https://www.codewars.com/kata/vowel-count/javascript
+* Vowel one https://www.codewars.com/kata/vowel-one/javascript
 
 ## Arrays
 * Initialize my name https://www.codewars.com/kata/5768a693a3205e1cc100071f
