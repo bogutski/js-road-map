@@ -38,6 +38,7 @@
 * Capitalization and Mutability https://www.codewars.com/kata/595970246c9b8fa0a8000086
 * Vowel Count https://www.codewars.com/kata/vowel-count/javascript
 * Vowel one https://www.codewars.com/kata/vowel-one/javascript
+* Simple Pig Latin http://www.codewars.com/kata/simple-pig-latin/javascript
 
 ## Arrays
 * Initialize my name https://www.codewars.com/kata/5768a693a3205e1cc100071f
@@ -58,7 +59,8 @@
 * Where my anagrams at? https://www.codewars.com/kata/523a86aa4230ebb5420001e1
 * Abbreviate a Two Word Name https://www.codewars.com/kata/abbreviate-a-two-word-name/javascript
 * A Needle in the Haystack http://www.codewars.com/kata/a-needle-in-the-haystack/javascript
-
+* Sort and Star http://www.codewars.com/kata/sort-and-star/train/javascript
+* Are the numbers in order? http://www.codewars.com/kata/are-the-numbers-in-order/javascript
 
 ## Math
 * Will you make it? https://www.codewars.com/kata/5861d28f124b35723e00005e
