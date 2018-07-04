@@ -39,8 +39,11 @@
 * Vowel Count https://www.codewars.com/kata/vowel-count/javascript
 * Vowel one https://www.codewars.com/kata/vowel-one/javascript
 * Simple Pig Latin http://www.codewars.com/kata/simple-pig-latin/javascript
+* WeIrD StRiNg CaSe https://www.codewars.com/kata/weird-string-case/javascript
+* Odd-Even String Sort https://www.codewars.com/kata/odd-even-string-sort/solutions/javascript
 
 ## Arrays
+* Calculate average https://www.codewars.com/kata/calculate-average/train/javascript
 * Initialize my name https://www.codewars.com/kata/5768a693a3205e1cc100071f
 * You only need one - Beginner https://www.codewars.com/kata/57cc975ed542d3148f00015b 
 * Sum ALL the arrays! https://www.codewars.com/kata/5594463eaf1701909c0000d4
