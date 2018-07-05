@@ -1,7 +1,7 @@
-# JS 
+# JavaScript 
 
-* [Process](./process.md)
-* [Tasks](./tasks.md) (Codewars)
-* [Questions](./questions.md)
-* [Skills](./skills.md)
+* [Educational process](./process.md)
+* [Codewars tasks](./tasks.md)
+* [Interview questions](./questions.md)
+* [Pfofessional skills](./skills.md)
 

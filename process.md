@@ -11,6 +11,9 @@
 * Primitives and Reference https://youtu.be/Xk_JGTLZyAs
 * String methods https://youtu.be/nQ5Ms1WqNa4
 * Array methods
+    * Review array methods https://youtu.be/WkxoPPm4lXI
+    * .filter() https://youtu.be/YMEbdq7RnIQ
+    * .find() https://youtu.be/kKbQc2Bt2tw
 * Objects
 * Closures
 * Promises
