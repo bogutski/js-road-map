@@ -10,6 +10,10 @@
 * Convert a string to an array https://www.codewars.com/kata/convert-a-string-to-an-array/javascript
 * Determine offspring sex based on genes XX and XY chromosomes https://www.codewars.com/kata/determine-offspring-sex-based-on-genes-xx-and-xy-chromosomes/javascript
 * Thinkful - Logic Drills: Traffic light https://www.codewars.com/kata/thinkful-logic-drills-traffic-light/javascript
+* The Feast of Many Beasts https://www.codewars.com/kata/the-feast-of-many-beasts/train/javascript
+* Simple multiplication https://www.codewars.com/kata/583710ccaa6717322c000105
+* Student's Final Grade https://www.codewars.com/kata/5ad0d8356165e63c140014d4
+
 
 ## Strings
 * Random case https://www.codewars.com/kata/random-case/train/javascript
@@ -41,6 +45,8 @@
 * Simple Pig Latin http://www.codewars.com/kata/simple-pig-latin/javascript
 * WeIrD StRiNg CaSe https://www.codewars.com/kata/weird-string-case/javascript
 * Odd-Even String Sort https://www.codewars.com/kata/odd-even-string-sort/solutions/javascript
+* Convert to Binary https://www.codewars.com/kata/59fca81a5712f9fa4700159a
+
 
 ## Arrays
 * Calculate average https://www.codewars.com/kata/calculate-average/train/javascript
@@ -64,6 +70,8 @@
 * A Needle in the Haystack http://www.codewars.com/kata/a-needle-in-the-haystack/javascript
 * Sort and Star http://www.codewars.com/kata/sort-and-star/train/javascript
 * Are the numbers in order? http://www.codewars.com/kata/are-the-numbers-in-order/javascript
+* Find the missing element between two arrays https://www.codewars.com/kata/5a5915b8d39ec5aa18000030
+* Get the mean of an array https://www.codewars.com/kata/563e320cee5dddcf77000158
 
 ## Math
 * Will you make it? https://www.codewars.com/kata/5861d28f124b35723e00005e
