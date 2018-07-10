@@ -72,6 +72,7 @@
 * Are the numbers in order? http://www.codewars.com/kata/are-the-numbers-in-order/javascript
 * Find the missing element between two arrays https://www.codewars.com/kata/5a5915b8d39ec5aa18000030
 * Get the mean of an array https://www.codewars.com/kata/563e320cee5dddcf77000158
+* Remove duplicate words https://www.codewars.com/kata/remove-duplicate-words/javascript
 
 ## Math
 * Will you make it? https://www.codewars.com/kata/5861d28f124b35723e00005e
