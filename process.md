@@ -18,6 +18,8 @@
     * .splice() https://youtu.be/1n-99tGoIzs
     * .map() https://youtu.be/xdRed7xEUK8
     * .forEach() https://youtu.be/yMYtmVQX7go
+    * .reduce() https://youtu.be/alA1TlxtfpA
+    * .reverse() https://youtu.be/O9vacC72tF0
 * Objects
 * Closures
 * Promises
