@@ -14,6 +14,10 @@
     * Review array methods https://youtu.be/WkxoPPm4lXI
     * .filter() https://youtu.be/YMEbdq7RnIQ
     * .find() https://youtu.be/kKbQc2Bt2tw
+    * .push(), .pop(), .shift(), .unshift() https://youtu.be/oV_oDv6V1aE
+    * .splice() https://youtu.be/1n-99tGoIzs
+    * .map() https://youtu.be/xdRed7xEUK8
+    * .forEach() https://youtu.be/yMYtmVQX7go
 * Objects
 * Closures
 * Promises
