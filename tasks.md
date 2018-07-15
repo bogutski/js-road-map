@@ -1,4 +1,4 @@
-# Tasks 
+# Tasks | Codewars
 
 ## Initial level 
 * Function 1 - hello world https://www.codewars.com/kata/function-1-hello-world/javascript
@@ -13,6 +13,9 @@
 * The Feast of Many Beasts https://www.codewars.com/kata/the-feast-of-many-beasts/train/javascript
 * Simple multiplication https://www.codewars.com/kata/583710ccaa6717322c000105
 * Student's Final Grade https://www.codewars.com/kata/5ad0d8356165e63c140014d4
+* Type of sum https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba
+* Sleigh Authentication https://www.codewars.com/kata/52adc142b2651f25a8000643
+* Switch it Up! https://www.codewars.com/kata/5808dcb8f0ed42ae34000031
 
 
 ## Strings
@@ -46,6 +49,8 @@
 * WeIrD StRiNg CaSe https://www.codewars.com/kata/weird-string-case/javascript
 * Odd-Even String Sort https://www.codewars.com/kata/odd-even-string-sort/solutions/javascript
 * Convert to Binary https://www.codewars.com/kata/59fca81a5712f9fa4700159a
+* String repeat https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
+* Reversed Strings https://www.codewars.com/kata/5168bb5dfe9a00b126000018
 
 
 ## Arrays
@@ -73,6 +78,9 @@
 * Find the missing element between two arrays https://www.codewars.com/kata/5a5915b8d39ec5aa18000030
 * Get the mean of an array https://www.codewars.com/kata/563e320cee5dddcf77000158
 * Remove duplicate words https://www.codewars.com/kata/remove-duplicate-words/javascript
+* How good are you really? https://www.codewars.com/kata/5601409514fc93442500010b
+* Convert number to reversed array of digits https://www.codewars.com/kata/5583090cbe83f4fd8c000051
+* Merge two sorted arrays into one https://www.codewars.com/kata/5899642f6e1b25935d000161
 
 ## Math
 * Will you make it? https://www.codewars.com/kata/5861d28f124b35723e00005e
@@ -89,6 +97,10 @@
 * Find The Parity Outlier https://www.codewars.com/kata/find-the-parity-outlier/javascript
 * Exponential Comparison (Use Math.log()) https://www.codewars.com/kata/exponential-comparison/javascript
 * Sum of odd numbers https://www.codewars.com/kata/55fd2d567d94ac3bc9000064
+* Count Odd Numbers below n https://www.codewars.com/kata/59342039eb450e39970000a6
+* Difference of Volumes of Cuboids https://www.codewars.com/kata/58cb43f4256836ed95000f97
+* Find Nearest square number Find Nearest square number
+* Square(n) Sum https://www.codewars.com/kata/515e271a311df0350d00000f
 
 
 ## Cycles 
@@ -100,6 +112,8 @@
 * Count the Monkeys! https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
 * Sum of positive https://www.codewars.com/kata/sum-of-positive/train/javascript
 * Reversed sequence https://www.codewars.com/kata/5a00e05cc374cb34d100000d
+* Count of positives / sum of negatives https://www.codewars.com/kata/576bb71bbbcf0951d5000044
+* Grasshopper - Summation https://www.codewars.com/kata/55d24f55d7dd296eb9000030
 
 
 ## RegExp
@@ -114,7 +128,6 @@
 * Reverse Vowels In A String https://www.codewars.com/kata/reverse-vowels-in-a-string/javascript
 * Correct the mistakes of the character recognition software https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software/javascript
 * Bumps in the Road (use match) http://www.codewars.com/kata/bumps-in-the-road/javascript
-
 
 
 ## Closures 
