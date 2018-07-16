@@ -10,3 +10,10 @@
 * Convert to Binary https://youtu.be/OicgDMdCoVA | https://www.codewars.com/kata/convert-to-binary
 * Print a Rectangle Using Asterisks https://youtu.be/w0jJnbb7uvg | https://www.codewars.com/kata/print-a-rectangle-using-asterisks/train/javascript
 * Simple multiplication https://youtu.be/4Uc51ZznmbU | https://www.codewars.com/kata/simple-multiplication/train/javascript
+
+https://youtu.be/pPJOen-1-mw
+* Type of sum https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba
+* Count Odd Numbers below n https://www.codewars.com/kata/59342039eb450e39970000a6
+* String repeat https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
+* How good are you really? https://www.codewars.com/kata/5601409514fc93442500010b
+
