@@ -1,15 +1,25 @@
 # Process
 
+## Part 1
 * Variables https://youtu.be/GmFfdloZGX8
 * Data types: String, Number, Boolean https://youtu.be/zH1DqAkbVTs
 * If, else if, else https://youtu.be/cPDfeMMF-_A, https://youtu.be/YgSnePdPYEo
 * Loops https://youtu.be/k0eLQZTo-V4
 * Functions https://youtu.be/5uARJjaXwhs
-* Строки и цикл по строке https://youtu.be/f4iiVsHnOfg
+* Strings, Using Loops for strings https://youtu.be/f4iiVsHnOfg
 * Template string https://youtu.be/oOzt-hDt_DY
 * Ternary operator https://youtu.be/n_XT5B88toE
 * Primitives and Reference https://youtu.be/Xk_JGTLZyAs
 * String methods https://youtu.be/nQ5Ms1WqNa4
+   * .includes()
+   * .indexOf(), .lastIndexOf()
+   * .repeat()
+   * .replace()
+   * .slice(), .substr(), .substring()
+   * .split()
+   * .trim(), .trimLeft(), .trimRight()
+   * .toLowerCase(), .toUpperCase()
+   * .match(), .search() 
 * Array methods
     * Review array methods https://youtu.be/WkxoPPm4lXI
     * .filter() https://youtu.be/YMEbdq7RnIQ
@@ -21,6 +31,9 @@
     * .reduce() https://youtu.be/alA1TlxtfpA
     * .reverse() https://youtu.be/O9vacC72tF0
 * Objects
+
+## Part 2
+* GIT https://youtu.be/bGegAZwf91c
 * Closures
 * Promises
 * Classes, inheritance, `__proto__`, prototype
