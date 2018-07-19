@@ -31,14 +31,34 @@
     * .reduce() https://youtu.be/alA1TlxtfpA
     * .reverse() https://youtu.be/O9vacC72tF0
 * Objects
+  * Object.keys()
+  * Object.values()
+* Boolean
+  * Boolean(x) or !!x
+* Numbers
+  * .toString()
+  * Number.isInteger()
+  * Number.isNaN()
+  * Number.parseFloat()
+  * Number.parseInt()
+* Math
+  * Math.abs()
+  * Math.ceil()
+  * Math.round()
+  * Math.floor()
+  * Math.max()
+  * Math.min()
+  * Math.pow()
+  * Math.sqrt()
+  * Math.random()
 
 ## Part 2
 * GIT https://youtu.be/bGegAZwf91c
+* HTML, CSS 
+* Browser: Document, Events (event loop), Interfaces
 * Closures
 * Promises
 * Classes, inheritance, `__proto__`, prototype
-* HTML, CSS 
-* Browser: Document, Events (event loop), Interfaces
 * Todo list on Vanila JS
 * HMLHttpRequest, fetch
 
