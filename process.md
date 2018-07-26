@@ -56,8 +56,8 @@
 * GIT https://youtu.be/bGegAZwf91c
 * GIT Collaboration 
 * HTML + CSS + JS
-  ### Project 1 (mini): Calculator on Vanila JS
-  ### Project 2 (mini): Todo list on Vanila JS
+### Project 1 (mini): Calculator on Vanila JS
+### Project 2 (mini): Todo list on Vanila JS
 
 * Browser: Document, Events (event loop), Interfaces
 * Closures
