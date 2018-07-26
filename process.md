@@ -54,19 +54,24 @@
 
 ## Part 2
 * GIT https://youtu.be/bGegAZwf91c
-* HTML, CSS 
+* GIT Collaboration 
+* HTML + CSS + JS
+  ### Project 1 (mini): Calculator on Vanila JS
+  ### Project 2 (mini): Todo list on Vanila JS
+
 * Browser: Document, Events (event loop), Interfaces
 * Closures
 * Promises
 * Classes, inheritance, `__proto__`, prototype
-* Todo list on Vanila JS
 * HMLHttpRequest, fetch
 
-* HTTP methods: GET, PUSH, PUT, PATCH, DELETE. Postman
-* Node JS API server, Postman
+ ### Project 3: Node JS API server
 * Node JS debugger
+* HTTP methods: GET, PUSH, PUT, PATCH, DELETE.
+* Postman
 * Deploy Node JS server to Heroku
 
+ ### Project 4: Front-end React
 * React, main concept
 * Props
 * State
