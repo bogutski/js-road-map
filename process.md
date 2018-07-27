@@ -55,7 +55,8 @@
 ## Part 2
 * GIT https://youtu.be/bGegAZwf91c
 * GIT Collaboration 
-* HTML + CSS + JS
+* HTML + CSS + JS (Git + GitHub) https://youtu.be/YnVhfx_7AA4
+
 ### Project 1 (mini): Calculator on Vanila JS
 ### Project 2 (mini): Todo list on Vanila JS
 
