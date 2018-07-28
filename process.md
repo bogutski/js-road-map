@@ -57,6 +57,7 @@
 * GIT Collaboration 
 * HTML + CSS + JS (Git + GitHub) https://youtu.be/YnVhfx_7AA4
 * DOM manipulation https://youtu.be/9WAe4l9PBCo
+* ESlint https://youtu.be/L7j0fAuT9XI
 
 ### Project 1 (mini): Calculator on Vanila JS
 ### Project 2 (mini): Todo list on Vanila JS
