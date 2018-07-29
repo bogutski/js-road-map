@@ -84,3 +84,5 @@
 * React API calls to server
 * Deploy to Heroku
 * Redux
+
+* How to write a Resume https://youtu.be/uyICF6bzlIQ
