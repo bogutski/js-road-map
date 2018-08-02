@@ -59,7 +59,9 @@
 * DOM manipulation https://youtu.be/9WAe4l9PBCo
 * ESlint https://youtu.be/L7j0fAuT9XI
 
-### Project 1 (mini): Calculator on Vanila JS https://youtu.be/nQY1POLx-aM
+### Project 1 (mini): Calculator on Vanilla JS 
+  * https://youtu.be/nQY1POLx-aM
+  
 ### Project 2 (mini): Todo list on Vanila JS
 
 * Browser: Document, Events
