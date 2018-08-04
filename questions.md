@@ -62,5 +62,26 @@ CSS frameworks: Bootstrap ([RU video](https://www.youtube.com/watch?v=2JMMnNOhDo
 *
 
 ### React
+* What is React?
+* What are the features of React? 
+* Differentiate between Real DOM and Virtual DOM.
+* What is JSX?
+* What is `state` and `props`
+* Differentiate between stateful and stateless components.
+* Class Component vs functional component
+* Uncontrolled Components vs Controlled Components
+* Component Lifecycle
+* Fragments
+* Portals
+* Higher-Order Components (HOC)
+* What happens when you call setState?
+* What is the second argument that can optionally be passed to setState and what is its purpose?
+* What are keys in React and why are they important?
+* In which lifecycle event do you make AJAX (API calls) requests and why?
+* Describe how events are handled in React
+* 
+
+
+
 ### Angular
 ### Ember / Vue ...
