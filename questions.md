@@ -81,7 +81,10 @@ CSS frameworks: Bootstrap ([RU video](https://www.youtube.com/watch?v=2JMMnNOhDo
 * Describe how events are handled in React
 * 
 
-
-
-### Angular
-### Ember / Vue ...
+#### React Redux
+* What is Redux?
+* Show how the data flows through Redux?
+* What do you understand by “Single source of truth”?
+* What are the advantages of Redux?
+* What is `connect` in Redux?
+* Developer tools for Redux
