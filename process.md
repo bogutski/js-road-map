@@ -61,6 +61,7 @@
 
 ### Project 1 (mini): Calculator on Vanilla JS 
   * https://youtu.be/nQY1POLx-aM
+  * Introduction to unit testing, Jest
   
 ### Project 2 (mini): Todo list on Vanila JS
 
@@ -86,7 +87,8 @@
 * React debugger
 * Lifecycle methods
 * React API calls to server
+* Snapshot testing, Enzyme
 * Deploy to Heroku
-* Redux
+* Redux, Redux DevTools
 
 * How to write a Resume https://youtu.be/uyICF6bzlIQ
