@@ -66,10 +66,10 @@
 ### Project 2 (mini): Todo list on Vanila JS
 * Browser: Document, Events
 * Local and Session storage
+* HMLHttpRequest, fetch
 
 * Closures
 * Promises
-* HMLHttpRequest, fetch
 * Classes, inheritance, `__proto__`, prototype
 
 ### Project 3: Node JS API server
