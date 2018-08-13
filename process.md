@@ -68,8 +68,9 @@
 * Local and Session storage
 * HMLHttpRequest, fetch
 
-* Closures
 * Promises
+* setTimeout(), stack
+* Closures
 * Classes, inheritance, `__proto__`, prototype
 
 ### Project 3: Node JS API server
