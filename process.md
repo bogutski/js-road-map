@@ -60,26 +60,29 @@
 * ESlint https://youtu.be/L7j0fAuT9XI
 
 ### Project 1 (mini): Calculator on Vanilla JS 
-  * https://youtu.be/nQY1POLx-aM
-  * Introduction to unit testing, Jest
+* Browser: Document, Events
+* https://youtu.be/nQY1POLx-aM
+* Introduction to unit testing, Jest
   
 ### Project 2 (mini): Todo list on Vanila JS
-* Browser: Document, Events
 * Local and Session storage
 * HMLHttpRequest, fetch
 
+### Project 3 (mini): Get random user profile
 * Promises
+* Axios: GET
 * setTimeout(), stack
+
 * Closures
 * Classes, inheritance, `__proto__`, prototype
 
-### Project 3: Node JS API server
+### Project 4: Node JS API server
 * Node JS debugger
 * HTTP methods: GET, PUSH, PUT, PATCH, DELETE.
 * Postman
 * Deploy Node JS server to Heroku
 
-### Project 4: Front-end React
+### Project 5: Front-end React
 * React, main concept
 * Props
 * State
