@@ -6,7 +6,7 @@
 * https://www.codewars.com/kata/will-you-make-it/train/javascript
 * https://www.codewars.com/kata/capitalization-and-mutability/train/javascript
 * https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript
-* If you can't sleep, just count sheeps!! https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheeps/javascript
+* If you can't sleep, just count sheeps!! https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep/javascript
 * Convert a string to an array https://www.codewars.com/kata/convert-a-string-to-an-array/javascript
 * Determine offspring sex based on genes XX and XY chromosomes https://www.codewars.com/kata/determine-offspring-sex-based-on-genes-xx-and-xy-chromosomes/javascript
 * Thinkful - Logic Drills: Traffic light https://www.codewars.com/kata/thinkful-logic-drills-traffic-light/javascript
