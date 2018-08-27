@@ -99,7 +99,7 @@
 * Sum of odd numbers https://www.codewars.com/kata/55fd2d567d94ac3bc9000064
 * Count Odd Numbers below n https://www.codewars.com/kata/59342039eb450e39970000a6
 * Difference of Volumes of Cuboids https://www.codewars.com/kata/58cb43f4256836ed95000f97
-* Find Nearest square number Find Nearest square number
+* Find Nearest square number Find Nearest square number https://www.codewars.com/kata/find-nearest-square-number/train/javascript.
 * Square(n) Sum https://www.codewars.com/kata/515e271a311df0350d00000f
 
 
