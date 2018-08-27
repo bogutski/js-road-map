@@ -35,6 +35,7 @@
   * Object.values()
 * Boolean
   * Boolean(x) or !!x
+  * Operator ! and !! 
 * Numbers
   * .toString()
   * Number.isInteger()
