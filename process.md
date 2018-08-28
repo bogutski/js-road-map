@@ -42,6 +42,7 @@
   * Number.isNaN()
   * Number.parseFloat()
   * Number.parseInt()
+  * .toPrecision()
 * Math
   * Math.abs()
   * Math.ceil()
