@@ -98,3 +98,4 @@
 
 ### Resume
 * How to write a Resume https://youtu.be/uyICF6bzlIQ
+* Когда начать проходить интервью https://youtu.be/7-MRWKEhy3k
