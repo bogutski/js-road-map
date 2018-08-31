@@ -82,6 +82,7 @@
 * Node JS debugger
 * HTTP methods: GET, PUSH, PUT, PATCH, DELETE.
 * Postman
+* CORS
 * Deploy Node JS server to Heroku
 
 ### Project 5: Front-end React
