@@ -93,6 +93,7 @@
 * React debugger
 * Lifecycle methods
 * React API calls to server
+* Routing
 * Snapshot testing, Enzyme
 * Deploy to Heroku
 * Redux, Redux DevTools
