@@ -85,7 +85,7 @@
 * CORS
 * Deploy Node JS server to Heroku
 
-### Project 5: Front-end React
+### Project 5: React Todo project
 * React, main concept
 * Props
 * State
@@ -97,6 +97,8 @@
 * Snapshot testing, Enzyme
 * Deploy to Heroku
 * Redux, Redux DevTools
+
+### Project 6: React, Redux, MongoDB
 
 ### Resume
 * How to write a Resume https://youtu.be/uyICF6bzlIQ
