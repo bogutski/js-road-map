@@ -43,7 +43,7 @@ CSS frameworks: Bootstrap ([RU video](https://www.youtube.com/watch?v=2JMMnNOhDo
 * High ordered function [video](https://www.youtube.com/watch?v=BMUiFMZr7vk)
 * Immediately Invoked Function expression - IIFE [video](https://www.youtube.com/watch?v=3cbiZV4H22c)
 * Self-Executing Anonymous Function
-* Closure
+* Closure https://sohabr.net/habr/post/424967/
 * Strict mode
 * Data types
 * `this`
