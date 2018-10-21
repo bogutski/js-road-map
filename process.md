@@ -11,10 +11,10 @@
 * Ternary operator https://youtu.be/n_XT5B88toE
 * Primitives and Reference https://youtu.be/Xk_JGTLZyAs
 * String methods https://youtu.be/nQ5Ms1WqNa4
-   * .includes()
-   * .indexOf(), .lastIndexOf()
-   * .repeat()
-   * .replace()
+   * .includes() https://youtu.be/CzQc7ElqtHs
+   * .indexOf(), .lastIndexOf() https://youtu.be/U4llL2vWNV8
+   * .repeat() https://youtu.be/j_qQowOYRLg 
+   * .replace() https://youtu.be/0Xdir_LsVS0
    * .slice(), .substr(), .substring()
    * .split()
    * .trim(), .trimLeft(), .trimRight()
@@ -98,7 +98,10 @@
 * Deploy to Heroku
 * Redux, Redux DevTools
 
-### Project 6: React, Redux, MongoDB
+### Project 6: React, Redux, MongoDB, Express
+Overview https://youtu.be/XjXE77iI_hQ
+Server https://github.com/bogutski/todo-server
+Client https://github.com/bogutski/todo-client
 
 ### Resume
 * How to write a Resume https://youtu.be/uyICF6bzlIQ
