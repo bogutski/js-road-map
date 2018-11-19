@@ -23,3 +23,12 @@
 * Sleigh Authentication https://youtu.be/STcfIYf4-NM | https://www.codewars.com/kata/52adc142b2651f25a8000643
 * Convert number to reversed array of digits https://youtu.be/fjioo0bhM8Y |  https://www.codewars.com/kata/5583090cbe83f4fd8c000051
 * Switch it Up! https://youtu.be/000M24eVYu8 | https://www.codewars.com/kata/switch-it-up/train/javascript
+
+* Sum of differences in array https://youtu.be/WJX6qLDtneE | https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e
+* Clean up after your dog https://youtu.be/nRIJuCbp0dw | https://www.codewars.com/kata/57faa6ff9610ce181b000028
+* Grasshopper - Personalized Message https://youtu.be/4GclxSw4LuY | https://www.codewars.com/kata/5772da22b89313a4d50012f7
+* Total amount of points https://youtu.be/5qgNJU5hFgI | https://www.codewars.com/kata/total-amount-of-points/train/javascript
+* Get Nth Even Number https://youtu.be/9oAPe3sG1h4 | https://www.codewars.com/kata/get-nth-even-number/javascript
+* Multiplication table for number https://youtu.be/oezDvceJjJ4 | https://www.codewars.com/kata/multiplication-table-for-number/javascript
+* Can we divide it? https://youtu.be/JACFS1omVsg | https://www.codewars.com/kata/can-we-divide-it/javascript
+* Find out whether the shape is a cube https://youtu.be/3nbfKBG5YGw | https://www.codewars.com/kata/find-out-whether-the-shape-is-a-cube/javascript
