@@ -115,6 +115,8 @@
 * Count of positives / sum of negatives https://www.codewars.com/kata/576bb71bbbcf0951d5000044
 * Grasshopper - Summation https://www.codewars.com/kata/55d24f55d7dd296eb9000030
 
+## Recursion
+* Sum of Digits / Digital Root https://www.codewars.com/kata/sum-of-digits-slash-digital-root/javascript
 
 ## RegExp
 * String cleaning https://www.codewars.com/kata/57e1e61ba396b3727c000251
@@ -153,3 +155,4 @@
 * Check three and two https://www.codewars.com/kata/check-three-and-two/train/javascript 
 * The Supermarket Queue https://www.codewars.com/kata/57b06f90e298a7b53d000a86
 * Simple parenthesis removal https://www.codewars.com/kata/simple-parenthesis-removal
+* Smallest Difference https://www.codewars.com/kata/smallest-difference/javascript
