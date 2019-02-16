@@ -106,3 +106,4 @@ Client https://github.com/bogutski/todo-client
 ### Resume
 * How to write a Resume https://youtu.be/uyICF6bzlIQ
 * Когда начать проходить интервью https://youtu.be/7-MRWKEhy3k
+* Что писать в резюме есть нет опыта https://youtu.be/QbxZo0XasbI
