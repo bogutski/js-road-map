@@ -2,7 +2,7 @@
 
 ## Initial level 
 * Function 1 - hello world https://www.codewars.com/kata/function-1-hello-world/javascript
-* https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript
+* Remove First and Last Character https://www.codewars.com/kata/remove-first-and-last-character/solutions/javascript
 * https://www.codewars.com/kata/will-you-make-it/train/javascript
 * https://www.codewars.com/kata/capitalization-and-mutability/train/javascript
 * https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript
@@ -20,7 +20,6 @@
 
 ## Strings
 * Random case https://www.codewars.com/kata/random-case/train/javascript
-* Remove First and Last Character https://www.codewars.com/kata/remove-first-and-last-character/solutions/javascript
 * Alphabet symmetry https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0
 * Credit card issuer checking https://www.codewars.com/kata/5701e43f86306a615c001868
 * Create Phone Number https://www.codewars.com/kata/525f50e3b73515a6db000b83
