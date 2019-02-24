@@ -3,6 +3,7 @@
 ## Part 1
 * Variables https://youtu.be/GmFfdloZGX8
 * Data types: String, Number, Boolean https://youtu.be/zH1DqAkbVTs
+* Comparison (== === !== != > < >= <=, [] === []) https://youtu.be/WZ9Szhbeoqk
 * If, else if, else https://youtu.be/cPDfeMMF-_A, https://youtu.be/YgSnePdPYEo
 * Loops https://youtu.be/k0eLQZTo-V4
 * Functions https://youtu.be/5uARJjaXwhs
@@ -31,6 +32,7 @@
     * .reduce() https://youtu.be/alA1TlxtfpA
     * .reverse() https://youtu.be/O9vacC72tF0
 * Objects
+  * Introduction to Objects https://youtu.be/RDOmD389yxY
   * Object.keys()
   * Object.values()
 * Boolean
