@@ -2,15 +2,18 @@
 
 ## Part 1
 * Variables https://youtu.be/GmFfdloZGX8
+* Let, var, const. Scope and visibility
 * Data types: String, Number, Boolean https://youtu.be/zH1DqAkbVTs
 * Comparison (== === !== != > < >= <=, [] === []) https://youtu.be/WZ9Szhbeoqk
 * If, else if, else https://youtu.be/cPDfeMMF-_A, https://youtu.be/YgSnePdPYEo
 * Loops https://youtu.be/k0eLQZTo-V4
 * Functions https://youtu.be/5uARJjaXwhs
+* Arrow functions
 * Strings, Using Loops for strings https://youtu.be/f4iiVsHnOfg
 * Template string https://youtu.be/oOzt-hDt_DY
 * Ternary operator https://youtu.be/n_XT5B88toE
 * Primitives and Reference https://youtu.be/Xk_JGTLZyAs
+* Combinations of functions, loops and conditions
 * String methods https://youtu.be/nQ5Ms1WqNa4
    * .includes() https://youtu.be/CzQc7ElqtHs
    * .indexOf(), .lastIndexOf() https://youtu.be/U4llL2vWNV8
@@ -33,6 +36,7 @@
     * .reverse() https://youtu.be/O9vacC72tF0
 * Objects
   * Introduction to Objects https://youtu.be/RDOmD389yxY
+  * Object methods
   * Object.keys()
   * Object.values()
 * Boolean
