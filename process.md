@@ -14,7 +14,10 @@
 * Ternary operator https://youtu.be/n_XT5B88toE
 * Primitives and Reference https://youtu.be/Xk_JGTLZyAs
 * Combinations of functions, loops and conditions
+
 * String methods https://youtu.be/nQ5Ms1WqNa4
+   * Convert string to array `String.prototype.split()`
+   * Convert string to number `Number` or `+`
    * .includes() https://youtu.be/CzQc7ElqtHs
    * .indexOf(), .lastIndexOf() https://youtu.be/U4llL2vWNV8
    * .repeat() https://youtu.be/j_qQowOYRLg 
@@ -24,6 +27,7 @@
    * .trim(), .trimLeft(), .trimRight()
    * .toLowerCase(), .toUpperCase()
    * .match(), .search() 
+   
 * Array methods
     * Review array methods https://youtu.be/WkxoPPm4lXI
     * .filter() https://youtu.be/YMEbdq7RnIQ
@@ -34,21 +38,26 @@
     * .forEach() https://youtu.be/yMYtmVQX7go
     * .reduce() https://youtu.be/alA1TlxtfpA
     * .reverse() https://youtu.be/O9vacC72tF0
+    
 * Objects
   * Introduction to Objects https://youtu.be/RDOmD389yxY
   * Object methods
   * Object.keys()
   * Object.values()
+  
 * Boolean
   * Boolean(x) or !!x
   * Operator ! and !! 
+  
 * Numbers
-  * .toString()
+  * Odd / even. Remainder `%`
+  * Convert number to string `.toString()`
   * Number.isInteger()
   * Number.isNaN()
   * Number.parseFloat()
   * Number.parseInt()
   * .toPrecision()
+  
 * Math
   * Math.abs()
   * Math.ceil()
@@ -56,7 +65,7 @@
   * Math.floor()
   * Math.max()
   * Math.min()
-  * Math.pow()
+  * Math.pow() and `**`
   * Math.sqrt()
   * Math.random()
 
