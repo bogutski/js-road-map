@@ -14,22 +14,23 @@
 * Ternary operator https://youtu.be/n_XT5B88toE
 * Primitives and Reference https://youtu.be/Xk_JGTLZyAs
 * Combinations of functions, loops and conditions
-
-* String methods https://youtu.be/nQ5Ms1WqNa4
+* Strings
+   * How to check that it is a string? `typeof`
+   * String methods https://youtu.be/nQ5Ms1WqNa4
    * Convert string to array `String.prototype.split()`
    * Convert string to number `Number` or `+`
-   * .includes() https://youtu.be/CzQc7ElqtHs
-   * .indexOf(), .lastIndexOf() https://youtu.be/U4llL2vWNV8
+   * Check if array includes element `.includes()` https://youtu.be/CzQc7ElqtHs
+   * Get index of element in array `.indexOf()`, `.lastIndexOf()` https://youtu.be/U4llL2vWNV8
    * .repeat() https://youtu.be/j_qQowOYRLg 
    * .replace() https://youtu.be/0Xdir_LsVS0
    * .slice(), .substr(), .substring()
-   * .split()
-   * .trim(), .trimLeft(), .trimRight()
-   * .toLowerCase(), .toUpperCase()
+   * Remove spaces `.trim()`, `.trimLeft()`, `.trimRight()`
+   * Change case `.toLowerCase()`, `.toUpperCase()`
    * .match(), .search() 
-   
 * Array methods
     * Review array methods https://youtu.be/WkxoPPm4lXI
+    * How to check that it is an array? `Array.isArray()`
+    * Conver array to string `.join()`
     * .filter() https://youtu.be/YMEbdq7RnIQ
     * .find() https://youtu.be/kKbQc2Bt2tw
     * .push(), .pop(), .shift(), .unshift() https://youtu.be/oV_oDv6V1aE
@@ -38,26 +39,25 @@
     * .forEach() https://youtu.be/yMYtmVQX7go
     * .reduce() https://youtu.be/alA1TlxtfpA
     * .reverse() https://youtu.be/O9vacC72tF0
-    
 * Objects
   * Introduction to Objects https://youtu.be/RDOmD389yxY
+  * Conver object to array
+  * Loops
   * Object methods
   * Object.keys()
-  * Object.values()
-  
+  * Object.values() 
 * Boolean
   * Boolean(x) or !!x
   * Operator ! and !! 
-  
 * Numbers
   * Odd / even. Remainder `%`
   * Convert number to string `.toString()`
   * Number.isInteger()
+  * NaN
   * Number.isNaN()
   * Number.parseFloat()
   * Number.parseInt()
   * .toPrecision()
-  
 * Math
   * Math.abs()
   * Math.ceil()
