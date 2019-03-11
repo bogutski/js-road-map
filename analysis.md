@@ -54,3 +54,4 @@
 * Reversing Words in a String https://www.codewars.com/kata/reversing-words-in-a-string/javascript  |  https://youtu.be/qTYBZfNBRtI
 * Reverse every other word in the string https://www.codewars.com/kata/reverse-every-other-word-in-the-string/javascript  | https://youtu.be/N60uEI1qBOg
 * Mumbling https://www.codewars.com/kata/mumbling/train/javascript | https://youtu.be/TiRCsF2pA5g
+* SetAlarm https://www.codewars.com/kata/l1-set-alarm/javascript | https://youtu.be/G_q-ZUw_9DQ
