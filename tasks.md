@@ -50,6 +50,7 @@
 * Convert to Binary https://www.codewars.com/kata/59fca81a5712f9fa4700159a
 * String repeat https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
 * Reversed Strings https://www.codewars.com/kata/5168bb5dfe9a00b126000018
+* Mumbling https://www.codewars.com/kata/mumbling/train/javascript
 
 
 ## Arrays
