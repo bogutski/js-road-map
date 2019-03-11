@@ -55,3 +55,4 @@
 * Reverse every other word in the string https://www.codewars.com/kata/reverse-every-other-word-in-the-string/javascript  | https://youtu.be/N60uEI1qBOg
 * Mumbling https://www.codewars.com/kata/mumbling/train/javascript | https://youtu.be/TiRCsF2pA5g
 * SetAlarm https://www.codewars.com/kata/l1-set-alarm/javascript | https://youtu.be/G_q-ZUw_9DQ
+* Reverse List Order https://www.codewars.com/kata/reverse-list-order/javascript | https://youtu.be/9m4Kcj3HYb0
