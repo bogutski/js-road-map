@@ -53,3 +53,4 @@
 * Sentence Smash https://www.codewars.com/kata/sentence-smash/javascript  | https://youtu.be/OPGbbA4ef5Q
 * Reversing Words in a String https://www.codewars.com/kata/reversing-words-in-a-string/javascript  |  https://youtu.be/qTYBZfNBRtI
 * Reverse every other word in the string https://www.codewars.com/kata/reverse-every-other-word-in-the-string/javascript  | https://youtu.be/N60uEI1qBOg
+* Mumbling https://www.codewars.com/kata/mumbling/train/javascript | https://youtu.be/TiRCsF2pA5g
