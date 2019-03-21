@@ -71,7 +71,7 @@
   * Math.random()
 
 ## Part 2
-* GIT https://youtu.be/bGegAZwf91c, Docs: https://git-scm.com/book/ru/v2
+* GIT https://youtu.be/F1JxJYZsGZ4 . https://youtu.be/bGegAZwf91c, Docs: https://git-scm.com/book/ru/v2
 * GIT Collaboration 
 * HTML + CSS + JS (Git + GitHub) https://youtu.be/YnVhfx_7AA4
 * DOM manipulation https://youtu.be/9WAe4l9PBCo
