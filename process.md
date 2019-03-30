@@ -1,7 +1,8 @@
 # Process
 
 ## Месяц 1
-Цель месяца изучить и научиться пользоваться основными конструкциями языка
+Цель месяца изучить и научиться пользоваться основными конструкциями языка.
+На каждую тему нужно пройти тест.
 
 * Variables https://youtu.be/GmFfdloZGX8
 * `let`, `var`, `const`. Scope and visibility
@@ -82,7 +83,7 @@
 * DOM manipulation https://youtu.be/9WAe4l9PBCo
 * ESlint https://youtu.be/L7j0fAuT9XI
 #### Начинаем работать над резюме
-* How to write a Resume https://youtu.be/uyICF6bzlIQ
+* Как написать резюме https://youtu.be/uyICF6bzlIQ
 * Когда начать проходить интервью https://youtu.be/7-MRWKEhy3k
 * Что писать в резюме есть нет опыта https://youtu.be/QbxZo0XasbI
 
