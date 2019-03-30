@@ -79,9 +79,9 @@
 
 ## Tools and services
 * Webstorm, InteliJ IDEA
-* Git, GitHub
+* Git, GitHub, 
 * Terminal command line
-* Jira
+* Jira Software
 * Postman
 * Charles
 
