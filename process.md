@@ -1,6 +1,8 @@
 # Process
 
-## Part 1
+## Месяц 1
+Цель месяца изучить и научиться пользоваться основными конструкциями языка
+
 * Variables https://youtu.be/GmFfdloZGX8
 * `let`, `var`, `const`. Scope and visibility
 * Data types: String, Number, Boolean https://youtu.be/zH1DqAkbVTs
@@ -69,13 +71,33 @@
   * Math.pow() and `**`
   * Math.sqrt()
   * Math.random()
-
-## Part 2
+  
+## Месяц 2
+Решаем задачи на алгоритмы, практикуемся работать со структурами данных, 
+закрепляем на задачах с интервью. Проводим работу в малых группах.
+Нужно выполнить некоторые нормативы, пройти тесты и сделать отчеты.
+#### Работаем с git
 * GIT https://youtu.be/F1JxJYZsGZ4 . https://youtu.be/bGegAZwf91c, Docs: https://git-scm.com/book/ru/v2
-* GIT Collaboration 
 * HTML + CSS + JS (Git + GitHub) https://youtu.be/YnVhfx_7AA4
 * DOM manipulation https://youtu.be/9WAe4l9PBCo
 * ESlint https://youtu.be/L7j0fAuT9XI
+#### Начинаем работать над резюме
+* How to write a Resume https://youtu.be/uyICF6bzlIQ
+* Когда начать проходить интервью https://youtu.be/7-MRWKEhy3k
+* Что писать в резюме есть нет опыта https://youtu.be/QbxZo0XasbI
+
+## Месяц 3
+Делимся на рабочие группы и работаем над проектом. Строим и тестируем API. 
+Работаем с базами данных SQL/MongoDB
+Командная работа в репозитории git. Code review. Jira Software.
+Unit testing.
+
+## Месяц 4
+Продолжаем работать с проектом. Проводим все виды тестирования.
+Тестируем серверную и клиентскую часть, e2e
+
+
+---------
 
 ## Tools and services
 * Webstorm, InteliJ IDEA
@@ -125,8 +147,3 @@
 Overview https://youtu.be/XjXE77iI_hQ
 Server https://github.com/bogutski/todo-server
 Client https://github.com/bogutski/todo-client
-
-### Resume
-* How to write a Resume https://youtu.be/uyICF6bzlIQ
-* Когда начать проходить интервью https://youtu.be/7-MRWKEhy3k
-* Что писать в резюме есть нет опыта https://youtu.be/QbxZo0XasbI
