@@ -2,7 +2,7 @@
 
 ## Месяц 1
 Цель месяца изучить и научиться пользоваться основными конструкциями языка.
-На каждую тему нужно пройти тест.
+На каждую тему нужно пройти тест. Работа на лекциях и в малых группах.
 
 * Variables https://youtu.be/GmFfdloZGX8
 * `let`, `var`, `const`. Scope and visibility
@@ -77,21 +77,31 @@
 Решаем задачи на алгоритмы, практикуемся работать со структурами данных, 
 закрепляем на задачах с интервью. Проводим работу в малых группах.
 Нужно выполнить некоторые нормативы, пройти тесты и сделать отчеты.
+
 #### Работаем с git
 * GIT https://youtu.be/F1JxJYZsGZ4 . https://youtu.be/bGegAZwf91c, Docs: https://git-scm.com/book/ru/v2
 * HTML + CSS + JS (Git + GitHub) https://youtu.be/YnVhfx_7AA4
 * DOM manipulation https://youtu.be/9WAe4l9PBCo
 * ESlint https://youtu.be/L7j0fAuT9XI
+
 #### Начинаем работать над резюме
 * Как написать резюме https://youtu.be/uyICF6bzlIQ
 * Когда начать проходить интервью https://youtu.be/7-MRWKEhy3k
 * Что писать в резюме есть нет опыта https://youtu.be/QbxZo0XasbI
 
 ## Месяц 3
-Делимся на рабочие группы и работаем над проектом. Строим и тестируем API. 
+Делимся на рабочие группы и работаем над проектом. Строим и тестируем API. Postman, SoapUI
 Работаем с базами данных SQL/MongoDB
-Командная работа в репозитории git. Code review. Jira Software.
-Unit testing.
+Командная работа в репозитории git. Code review. Jira Software. Unit testing.
+  
+  * Строим  API server
+  * Создание окружений, Local, UAT, Prod
+  * CI/CD. Проверка кода. 
+  * Роутинг, База данных MongoDB
+  * Пользователи. Регистрация. Вход. Права доступа. Восстановление пароля. 
+  * Основные сущности проекта. CRUD (Create, Read, Update, Delete)
+  ...
+  
 
 ## Месяц 4
 Продолжаем работать с проектом. Проводим все виды тестирования.
