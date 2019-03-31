@@ -1,7 +1,7 @@
 # Questions
 
 ##
-* COSR [RU video](https://www.youtube.com/watch?v=SgFJJBa0AH8)
+* CORS [RU video](https://www.youtube.com/watch?v=SgFJJBa0AH8)
 
 ## HTML
 * New features of HTML 5
