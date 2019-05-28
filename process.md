@@ -11,6 +11,7 @@
 * `if`, `else if`, `else` https://youtu.be/cPDfeMMF-_A, https://youtu.be/YgSnePdPYEo
 * Loops https://youtu.be/k0eLQZTo-V4
 * Functions https://youtu.be/5uARJjaXwhs
+* Function expression, and function declaration. Hoisting.
 * Functions with `this`. Set context with `bind`, `call`, `apply`
 * Arrow functions
 * Strings, Using Loops for strings https://youtu.be/f4iiVsHnOfg
@@ -18,6 +19,7 @@
 * Ternary operator https://youtu.be/n_XT5B88toE
 * Primitives and Reference https://youtu.be/Xk_JGTLZyAs
 * Combinations of functions, loops and conditions
+
 * Strings
    * How to check that it is a string? `typeof`
    * String methods https://youtu.be/nQ5Ms1WqNa4
@@ -31,6 +33,7 @@
    * Remove spaces `.trim()`, `.trimLeft()`, `.trimRight()`
    * Change case `.toLowerCase()`, `.toUpperCase()`
    * `.match()`, `.search()` 
+   
 * Array methods
     * Review array methods https://youtu.be/WkxoPPm4lXI
     * How to check that it is an array? `Array.isArray()`
@@ -43,6 +46,7 @@
     * `.forEach()` https://youtu.be/yMYtmVQX7go
     * `.reduce()` https://youtu.be/alA1TlxtfpA
     * `.reverse()` https://youtu.be/O9vacC72tF0
+    
 * Objects
   * Introduction to Objects https://youtu.be/RDOmD389yxY
   * Conver object to array
@@ -50,9 +54,11 @@
   * Object methods
   * `Object.keys()`
   * `Object.values()` 
+  
 * Boolean
   * Boolean(x) or !!x
   * Operator ! and !! 
+  
 * Numbers
   * Odd / even. Remainder `%`
   * Convert number to string `.toString()`
@@ -62,6 +68,7 @@
   * Number.parseFloat()
   * Number.parseInt()
   * .toPrecision()
+  
 * Math
   * Math.abs()
   * Math.ceil()
@@ -118,6 +125,9 @@
 * Postman
 * Charles
 
+---------
+
+Deprecated, but good to know:
 ### Project 1 (mini): Calculator on Vanilla JS 
 * Browser: Document, Events
 * https://youtu.be/nQY1POLx-aM
