@@ -95,6 +95,7 @@
 * Как написать резюме https://youtu.be/uyICF6bzlIQ
 * Когда начать проходить интервью https://youtu.be/7-MRWKEhy3k
 * Что писать в резюме есть нет опыта https://youtu.be/QbxZo0XasbI
+* Рекрутер FACEBOOK GOOGLE YAHOO, резюме и собеседование https://youtu.be/3rslpYPiQ84
 
 ## Месяц 3
 Делимся на рабочие группы и работаем над проектом. Строим и тестируем API. Postman, SoapUI
