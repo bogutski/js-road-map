@@ -116,9 +116,10 @@
 Тестируем серверную и клиентскую часть, Строим e2e фреймворк
   
   * Документация и Тест-кейсы для UI
-  * Webdriver IO
+  * Webdriver IO (WDIO)
   * HTML, CSS, XPath
-  * BDD
+  * BDD, gherkin language
+  
   
   
 
