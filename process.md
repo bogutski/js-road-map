@@ -160,7 +160,9 @@ Deprecated, but good to know:
 * HTTP methods: GET, PUSH, PUT, PATCH, DELETE.
 * Postman
 * CORS
-* Deploy Node JS server to Heroku
+* CI/CD
+* Deploy Node JS server to Heroku, 
+
 
 ### Project 5: React Todo project
 * React, main concept
